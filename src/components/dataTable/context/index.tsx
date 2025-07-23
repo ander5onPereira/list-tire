@@ -14,35 +14,34 @@ const DataTableContext = createContext<DataTableContextInterface>(
 export function DataTableProvider(props: Props) {
   const { columns, onRowClick, dataService, children } = props;
 
-  const [filters, setFilters] = useState<Record<string, string>>({});
-  const [sortState, setSortState] = useState<Record<string, string>>({});
+  const [filters, setFilters] = useState<string>('');
   const [pageSize, setItemsPerPage] = useState(10);
   const [pageNumber, setCurrentPage] = useState(0);
 
-  const { data = [], isLoading } = useDataTableQuery(
+  function updateFilters(value: string) {
+    setFilters(value);
+  }
+
+  const { data = [], isLoading } = useDataTableQuery({
     dataService,
-    filters,
-    sortState,
+    textQuery: filters,
     pageSize,
-    pageNumber
-  );
+    pageNumber,
+    branchOfficesId: 215, // value defined by the documentation description
+    companyId: 3, //value defined by the documentation description
+  });
   return (
     <DataTableContext.Provider
       value={{
         filters,
-        setFilters,
         data,
         columns,
-        setFilter: (key, value) => {
-          setFilters((prev) => ({ ...prev, [key]: value }));
-        },
+        updateFilters,
         pageSize,
         setItemsPerPage,
         pageNumber,
         setCurrentPage,
         onRowClick,
-        sortState,
-        setSortState,
         isLoading,
       }}
     >

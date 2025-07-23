@@ -15,7 +15,8 @@ export interface Props<T> {
   dataService: (params: {
     pageSize: number;
     pageNumber: number;
-    filters: Record<string, string>;
-    sortState: Record<string, string>;
+    textQuery?: string;
+    companyId: number;
+    branchOfficesId: number;
   }) => Promise<T[]>;
 }

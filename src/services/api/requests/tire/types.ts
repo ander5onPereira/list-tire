@@ -10,6 +10,7 @@ export interface GetTiresParams {
   treadModelId?: number;
   currentLifeCycles?: number;
   dimensionsIds?: number;
+  textQuery?: string;
 }
 
 export interface TireListResponse {
