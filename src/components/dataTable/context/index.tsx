@@ -27,8 +27,8 @@ export function DataTableProvider(props: Props) {
     textQuery: filters,
     pageSize,
     pageNumber,
-    branchOfficesId: 215, // value defined by the documentation description
-    companyId: 3, //value defined by the documentation description
+    branchOfficesId: import.meta.env.VITE_API_BRANCH_OFFICES_ID, // value defined by the documentation description
+    companyId: import.meta.env.VITE_API_COMPANY_ID, //value defined by the documentation description
   });
   return (
     <DataTableContext.Provider

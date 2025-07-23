@@ -17,8 +17,8 @@ export function TirePage() {
       const response = await tireApi.getItems({
         pageSize,
         pageNumber,
-        branchOfficesId: 215,
-        companyId: 3,
+        branchOfficesId: import.meta.env.VITE_API_BRANCH_OFFICES_ID,
+        companyId: import.meta.env.VITE_API_COMPANY_ID,
       });
       return response.content;
     },
