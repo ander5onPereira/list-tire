@@ -5,6 +5,7 @@ interface LoadingProps {
 export function Loading({ className }: LoadingProps) {
   return (
     <div
+      data-testid='loading'
       className={twMerge(
         'flex flex-col gap-2 justify-center items-center',
         className
