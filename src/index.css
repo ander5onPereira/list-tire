@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Prompt:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme{
+  --color-light-bluee: #A1B5FF;
+  --color-soft-bluee: #7A97ff;
+  --color-normal-bluee: #5579FF;
+  --color-dark-bluee: #3D5FD9;
+
+  --color-light-marine: #2E3D80;
+  --color-soft-marine: #253166;
+  --color-normal-marine: #1B244C;
+  --color-dark-marine: #131A36;
+
+  --color-light-greyzy: #BEC7D4;
+  --color-soft-greyzy: #AAB2BD;
+  --color-normal-greyzy: ##939AA3;
+  --color-dark-greyzy: #70767D;
+
+  --color-primary-light: #5778ff;
+  --color-primary-dark: #1b254d;
+
+  --color-secondary-green:#01cf91;
+  --color-secondary-orenge:#ff7c25;
+  --color-secondary-gray:#959aa4;
+  --color-secondary-gray-light: #dbe1e4;
+
+  --font-prompt: 'Prompt', sans-serif;
+  --font-montserrat: 'Montserrat', sans-serif;
+
+  --animate-spin-slow: spin 2s linear infinite;
+
+}
+:root {
+  font-family: var(--font-prompt),var(--font-montserrat);
+  h1{
+    font-size: 40px;
+  }
+  h2{
+    font-size: 32px;
+  }
+  h3{
+    font-size: 24px;
+  }
+  p{
+    font-size: 16px;
+  }
+  
+}
+input:focus + label,
+input:not(:placeholder-shown) + label {
+@apply -top-2 text-xs text-normal-bluee;
+}
