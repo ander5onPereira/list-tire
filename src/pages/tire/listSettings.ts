@@ -1,6 +1,6 @@
-import type { dataGridColumnType } from '../../components/dataTable';
+import type { dataTableColumnType } from '@components/dataTable/types';
 
-export const columns: Array<dataGridColumnType> = [
+export const columns: Array<dataTableColumnType> = [
   {
     uniqueId: 'id',
     key: 'id',

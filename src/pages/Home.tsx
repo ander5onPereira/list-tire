@@ -1,8 +1,6 @@
-import { MdOutlineMail } from 'react-icons/md';
-import { Button } from '../components/button';
-import { Input } from '../components/inputs';
 import { FaArrowRight } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom';
+import { Button } from '../components/button';
 
 export function HomePage() {
   const navegate = useNavigate();

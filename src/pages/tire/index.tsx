@@ -1,11 +1,10 @@
+import { Card } from '@components/card';
+import { GoBackButton } from '@components/gobackButton';
 import { useCallback } from 'react';
-import { FaChevronLeft } from 'react-icons/fa';
 import { DataTable } from '../../components/dataTable';
 import { useTire } from '../../hooks/useTire';
 import tireApi from '../../services/api/requests/tire';
 import { columns } from './listSettings';
-import { Card } from '@components/card';
-import { GoBackButton } from '@components/gobackButton';
 
 const BRANCH_OFFICES_ID = Number(
   import.meta.env.VITE_API_BRANCH_OFFICES_ID ?? 0

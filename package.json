@@ -1,8 +1,17 @@
 {
   "name": "prolog-tire",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "author": {
+    "name": "Anderson Pereira Rodrigues",
+    "email": "anderson.carro.95@gmail.com"
+  },
+  "description": "Aplicação web desenvolvida em React com TypeScript como parte de um teste prático para a posição de Desenvolvedor Frontend. A aplicação permite listar e visualizar detalhes de pneus, consumindo dados de APIs públicas da Prolog. Inclui sistema de rotas, paginação, tratamento de erros e testes automatizados.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ander5onPereira/prolog-tire"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -51,5 +60,8 @@
     "typescript-eslint": "^8.35.1",
     "vite": "^7.0.4",
     "vitest": "^3.2.4"
+  },
+  "engines": {
+    "node": ">=22.17.0"
   }
 }
