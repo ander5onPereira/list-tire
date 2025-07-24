@@ -1,27 +1,21 @@
 import { MdOutlineMail } from 'react-icons/md';
 import { Button } from '../components/button';
 import { Input } from '../components/inputs';
+import { FaArrowRight } from 'react-icons/fa';
+import { useNavigate } from 'react-router-dom';
 
 export function HomePage() {
+  const navegate = useNavigate();
   return (
-    <div className='flex gap-1.5 flex-col'>
-      HomePage
-      <div>
-        <Button>ENTRAR EM CONTATO</Button>
+    <div className='flex w-screen h-screen items-center justify-center flex-col gap-8'>
+      <div className='flex flex-col gap-2 items-center'>
+        <h1>Bem vindo!!</h1>
+        <h3>Teste Prático | Web - React</h3>
       </div>
-      <div>
-        <Button mode='outline'>ENTRAR EM CONTATO</Button>
-      </div>
-      <div>
-        <Button mode='text'>ENTRAR EM CONTATO</Button>
-      </div>
-      <Input
-        icon={<MdOutlineMail className='color-current size-5' />}
-        label='Email'
-        id='email'
-        name='email'
-        placeholder='Email'
-      />
+      <Button type='button' onClick={() => navegate(-1)} className='gap-2'>
+        <FaArrowRight className='color-current' />
+        Entrar
+      </Button>
     </div>
   );
 }

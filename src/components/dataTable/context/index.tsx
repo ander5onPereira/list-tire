@@ -11,6 +11,8 @@ const DataTableContext = createContext<DataTableContextInterface>(
   defaultDataTableContext
 );
 
+const BRANCH_OFFICES_ID = Number(import.meta.env.VITE_API_BRANCH_OFFICES_ID ?? 0); // value defined by the documentation description
+const COMPANY_ID = Number(import.meta.env.VITE_API_COMPANY_ID ?? 0); //value defined by the documentation description
 export function DataTableProvider(props: Props) {
   const { columns, onRowClick, dataService, children } = props;
 
@@ -27,8 +29,8 @@ export function DataTableProvider(props: Props) {
     textQuery: filters,
     pageSize,
     pageNumber,
-    branchOfficesId: import.meta.env.VITE_API_BRANCH_OFFICES_ID, // value defined by the documentation description
-    companyId: import.meta.env.VITE_API_COMPANY_ID, //value defined by the documentation description
+    branchOfficesId: BRANCH_OFFICES_ID,
+    companyId: COMPANY_ID, 
   });
   return (
     <DataTableContext.Provider

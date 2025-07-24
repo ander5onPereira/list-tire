@@ -39,8 +39,7 @@ describe('TableContainer', () => {
     expect(screen.getByTestId('tb-body')).toBeInTheDocument();
     expect(screen.getByTestId('tb-footer')).toBeInTheDocument();
 
-    const table = screen.getByRole('table');
-    expect(table).toBeInTheDocument();
-    expect(table).toHaveClass('w-full rounded-lg overflow-hidden');
+    expect(screen.getByTestId('header-table')).toBeInTheDocument();
+    expect(screen.getByTestId('body-table')).toBeInTheDocument();
   });
 });

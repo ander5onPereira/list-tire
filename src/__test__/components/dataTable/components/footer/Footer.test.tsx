@@ -26,9 +26,9 @@ describe('TbFooter', () => {
 
     render(<TbFooter />);
 
-    // checks if the select has the correct value
-    const select = screen.getByRole('combobox');
-    expect(select).toHaveValue('10');
+    // checks if the input has the correct value
+    const input = screen.getByRole('spinbutton');
+    expect(input).toHaveValue(10);
 
     // checks if the page text is correct
     expect(screen.getByText('1')).toBeInTheDocument();
@@ -40,8 +40,8 @@ describe('TbFooter', () => {
     expect(prevButton).not.toBeDisabled();
     expect(nextButton).not.toBeDisabled();
 
-    // changes the select to 20
-    fireEvent.change(select, { target: { value: '20' } });
+    // change the input to 20
+    fireEvent.change(input, { target: { value: 20 } });
     expect(setItemsPerPage).toHaveBeenCalledWith(20);
 
     // clicks the previous page button

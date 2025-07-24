@@ -1,6 +1,7 @@
 import { MdArrowBackIosNew, MdArrowForwardIos } from 'react-icons/md';
 import { useDataTable } from '../../hook/useDataTable';
 import { Button } from '../../../button';
+import { Input } from '@components/inputs';
 
 export function TbFooter() {
   const { pageNumber, pageSize, setCurrentPage, setItemsPerPage, data } =
@@ -12,19 +13,18 @@ export function TbFooter() {
 
   return (
     <div className='flex justify-between items-center pt-4'>
-      <div className='flex gap-1 items-center'>
-        <span>Total/Page</span>
-        <select
-          value={pageSize}
-          onChange={(e) => setItemsPerPage(Number(e.target.value))}
-          className='h-10 bg-white rounded-md focus:outline-none border-2 focus:border-b-2 focus:border-x-2 focus:border-t-2 focus:border-x-violet-200 focus:border-t-violet-200 focus:border-primary-arp px-2 w-full'
-        >
-          {[5, 10, 20, 50].map((size) => (
-            <option key={size} value={size}>
-              {size}
-            </option>
-          ))}
-        </select>
+      <div className='flex gap-2 items-center'>
+        <span className=''>Total/Page</span>
+        <div className='w-5'>
+          <Input
+            containerClassName='min-w-auto w-12'
+            type='number'
+            min='1'
+            max='100'
+            value={pageSize}
+            onChange={(e) => setItemsPerPage(Number(e.target.value))}
+          />
+        </div>
       </div>
 
       <div className='flex space-x-2 items-center'>

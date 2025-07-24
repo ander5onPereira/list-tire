@@ -1,16 +1,17 @@
 import { type ComponentProps, type ReactNode } from 'react';
-import clsx from 'clsx';
+import { twMerge } from 'tailwind-merge';
 
 interface InputProps extends ComponentProps<'input'> {
   icon?: ReactNode;
   label?: string;
+  containerClassName?: string;
 }
 
-export function Input({ icon, label, name, className, ...rest }: InputProps) {
+export function Input({ icon, label, name, className,containerClassName, ...rest }: InputProps) {
   return (
-    <div className="relative w-max min-w-[280px]">
+    <div className={twMerge("relative w-max min-w-[280px]",containerClassName)}>
       <div
-        className={clsx(
+        className={twMerge(
           'flex items-center border-b-2 transition-colors duration-200 h-12 text-soft-greyzy',
           'border-soft-greyzy focus-within:border-normal-bluee focus-within:text-normal-bluee'
         )}
@@ -22,7 +23,7 @@ export function Input({ icon, label, name, className, ...rest }: InputProps) {
             id={name}
             name={name}
             placeholder=" "
-            className={clsx(
+            className={twMerge(
               'w-full bg-transparent outline-none text-base text-soft-greyzy pl-0 pt-1',
               className
             )}
@@ -30,7 +31,7 @@ export function Input({ icon, label, name, className, ...rest }: InputProps) {
           {label && (
             <label
               htmlFor={name}
-              className={clsx(
+              className={twMerge(
                 'absolute left-0 top-1 text-soft-greyzy text-base transition-all duration-200 pointer-events-none',
                 'peer-placeholder-shown:top-3 peer-placeholder-shown:text-base peer-placeholder-shown:text-soft-greyzy',
                 'peer-focus:top-[-0.5rem] peer-focus:text-xs peer-focus:text-normal-bluee'
