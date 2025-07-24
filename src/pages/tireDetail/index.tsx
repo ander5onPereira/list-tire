@@ -28,8 +28,8 @@ export function TireDetailPage() {
     return <TireNotDetailCard />;
   }
   return (
-    <div className='my-5 mx-16'>
-      <GoBackButton href='/tire'/>
+    <div className='my-5 mx-16 lg:max-w-7xl lg:mx-auto'>
+      <GoBackButton href='/tire' />
       <div className='grid grid-cols-3 gap-4'>
         <TireDetailCard />
         <div className='lg:col-span-1 col-span-3  flex lg:flex-col flex-col md:flex-row  justify-between gap-4'>

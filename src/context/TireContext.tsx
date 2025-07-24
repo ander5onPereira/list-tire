@@ -40,7 +40,6 @@ export function TireProvider({ children }: Props) {
         tire,
         isLoading,
         currentId,
-        isValidId,
         handleCurrentDetail,
       }}
     >

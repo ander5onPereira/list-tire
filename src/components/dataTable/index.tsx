@@ -1,6 +1,6 @@
 import { TableContainer } from './components/TableContainer';
 import { DataTableProvider } from './context';
-import type { Props } from './types';
+import type { Props } from './context/types';
 
 export function DataTable<T>({ columns, onRowClick, dataService }: Props<T>) {
   if (!columns.length) {

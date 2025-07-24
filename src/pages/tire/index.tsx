@@ -35,7 +35,7 @@ export function TirePage() {
     handleCurrentDetail(row.id);
   }, []);
   return (
-    <div className='flex flex-col pt-8 h-screen overflow-hidden mx-2 md:mx-8 lg:max-w-5xl lg:mx-auto'>
+    <div className='flex flex-col pt-8 h-screen overflow-hidden mx-2 md:mx-8 lg:max-w-7xl lg:mx-auto'>
       <Card>
         <GoBackButton />
         <DataTable

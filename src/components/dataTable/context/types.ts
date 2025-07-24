@@ -2,13 +2,11 @@ export interface dataTableColumnType {
   uniqueId: string;
   key: string;
   label: string;
-  filter?: boolean;
-  filterType?: 'text' | 'range';
   className?: string;
   render?: Function;
   avoidRowClick?: boolean;
 }
-export interface Props<T = any> {
+export interface PropsProvider<T = any> {
   children: React.ReactNode;
   columns: dataTableColumnType[];
   onRowClick?: Function;
@@ -20,6 +18,19 @@ export interface Props<T = any> {
     branchOfficesId: number;
   }) => Promise<T[]>;
 }
+export interface Props<T> {
+  columns: dataTableColumnType[];
+  onRowClick?: (row: T) => void;
+  dataService: (params: {
+    pageSize: number;
+    pageNumber: number;
+    textQuery?: string;
+    companyId: number;
+    branchOfficesId: number;
+  }) => Promise<T[]>;
+}
+
+
 export interface DataTableContextInterface {
   filters: string;
   data: Record<string, any>[];

@@ -1,11 +1,14 @@
-import { BrowserRouter as Router } from 'react-router-dom';
+import { useAxiosErrorHandler } from '@hooks/useAxiosErrorHandler';
+import { ToastContainer } from 'react-toastify';
 import AppRoutes from './router';
 
 function App() {
+  useAxiosErrorHandler();
   return (
-    <Router>
+    <>
       <AppRoutes />
-    </Router>
+      <ToastContainer theme='colored' />
+    </>
   );
 }
 

@@ -10,7 +10,7 @@ export function HomePage() {
         <h1>Bem vindo!!</h1>
         <h3>Teste Prático | Web - React</h3>
       </div>
-      <Button type='button' onClick={() => navegate(-1)} className='gap-2'>
+      <Button type='button' onClick={() => navegate('/tire')} className='gap-2'>
         <FaArrowRight className='color-current' />
         Entrar
       </Button>

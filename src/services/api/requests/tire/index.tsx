@@ -1,6 +1,4 @@
 import { api } from '../..';
-import { toastError } from '../../../../function/notifications';
-
 import { urls } from '../../urls';
 import type {
   GetTiresParams,
@@ -11,7 +9,6 @@ import type {
 
 function handleApiError(error: any, fallback = 'Erro desconhecido') {
   const message = error?.response?.data?.message ?? fallback;
-  toastError({ content: message });
 
   return {
     content: [],

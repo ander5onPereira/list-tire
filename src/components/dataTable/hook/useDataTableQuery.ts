@@ -1,5 +1,6 @@
 import { keepPreviousData, useQuery } from '@tanstack/react-query';
-import type { Props } from '../types';
+import type { Props } from '../context/types';
+
 interface DataTableProps<T> {
   dataService: Props<T>["dataService"];
   textQuery?: string;

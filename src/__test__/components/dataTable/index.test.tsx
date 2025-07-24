@@ -1,5 +1,6 @@
 import { DataTable } from '@components/dataTable';
-import type { dataTableColumnType, Props } from '@components/dataTable/types';
+import type { dataTableColumnType, Props } from '@components/dataTable/context/types';
+
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { render, screen } from '@testing-library/react';
 

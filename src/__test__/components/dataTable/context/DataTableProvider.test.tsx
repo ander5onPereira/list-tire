@@ -4,7 +4,8 @@ import { useContext } from 'react';
 import DataTableContext, {
   DataTableProvider,
 } from '@components/dataTable/context';
-import type { dataTableColumnType } from '@components/dataTable/types';
+import type { dataTableColumnType } from '@components/dataTable/context/types';
+
 
 vi.mock('@components/dataTable/hook/useDataTableQuery', () => ({
   useDataTableQuery: () => ({
