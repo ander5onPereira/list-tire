@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="Prolog Tire" src=".github/aplication.png" width="100%">
+  <img alt="List Tire" src=".github/aplication.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Aplicação foi desenvolvida como teste prático para o cargo de Desenvolvedor Front End React | Pleno para a Empresa Prolog App no mes de julho de 2025.
+Aplicação foi desenvolvida como teste prático para o cargo de Desenvolvedor Front End React | Pleno no mes de julho de 2025.
 
 ## 📚 Descrição
 
@@ -34,11 +34,11 @@ Aplicação foi desenvolvida como teste prático para o cargo de Desenvolvedor F
   5. Deve considerar lidar com casos de erro nas requisições, para garantir uma experiência de usuário robusta.
   6. Deve criar duas páginas (Lista e Detalhes) para exibir os dados de pneus.
     6.1. Pagina listagem:
-      - Deve utilizar o endpoint de listagem de pneus (GET -> prolog/api/v3/tires)
+      - Deve utilizar o endpoint de listagem de pneus (GET -> /api/v3/tires)
       - Deve exibir todos os pneus de forma paginada.
       - Pode adicionar filtros.
     6.2. Pagina detalhes:
-      - Deve utilizar o endpoint de detalhes de um pneu (GET -> prolog/api/v3/tires/{id})
+      - Deve utilizar o endpoint de detalhes de um pneu (GET -> /api/v3/tires/{id})
       - Deve exibir os detalhes de um pneu.
   7. Devem conter testes de integração de maneira automatizada.
 
