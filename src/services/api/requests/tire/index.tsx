@@ -19,8 +19,8 @@ async function getItems(
   params?: GetTiresParams
 ): Promise<TireListResponse | TireListError> {
   try {
-    const response = await api.get(urls.tire.getAll, { params });
-    return response.data as TireListResponse;
+    const response = await api.get(urls.tire.getAll);
+    return {content:response.data} as TireListResponse;
   } catch (error) {
     return handleApiError(error);
   }

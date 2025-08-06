@@ -1,0 +1,4404 @@
+{
+  "tires": [
+    {
+      "id": 138194,
+      "serialNumber": "AB2653",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 53.5,
+      "dot": "4413",
+      "purchaseCost": 1109,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2019-03-17T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138195,
+      "serialNumber": "AB8752",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 18.7,
+      "dot": "8798",
+      "purchaseCost": 940,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2020-04-09T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138196,
+      "serialNumber": "AB4350",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 20.7,
+      "dot": "4185",
+      "purchaseCost": 880,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2021-02-01T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138197,
+      "serialNumber": "AB5542",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 6.8,
+      "dot": "7376",
+      "purchaseCost": 1190,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2020-02-03T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138198,
+      "serialNumber": "AB5555",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 2.6,
+      "dot": "1001",
+      "purchaseCost": 1019,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2022-12-05T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138199,
+      "serialNumber": "AB4873",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 67.3,
+      "dot": "6114",
+      "purchaseCost": 848,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2020-06-02T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138200,
+      "serialNumber": "AB3038",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 105.5,
+      "dot": "1490",
+      "purchaseCost": 960,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2020-12-21T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138201,
+      "serialNumber": "AB3330",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 12.5,
+      "dot": "3493",
+      "purchaseCost": 810,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2021-02-08T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138202,
+      "serialNumber": "AB8646",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 27.5,
+      "dot": "4915",
+      "purchaseCost": 1022,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2019-01-04T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138203,
+      "serialNumber": "AB5630",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 95.0,
+      "dot": "2727",
+      "purchaseCost": 1171,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2024-02-20T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138204,
+      "serialNumber": "AB3738",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 8.1,
+      "dot": "8936",
+      "purchaseCost": 886,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2022-11-12T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138205,
+      "serialNumber": "AB4917",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 107.0,
+      "dot": "2504",
+      "purchaseCost": 964,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2020-12-03T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138206,
+      "serialNumber": "AB7240",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 108.1,
+      "dot": "9002",
+      "purchaseCost": 1097,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2021-11-21T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138207,
+      "serialNumber": "AB9671",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 90.6,
+      "dot": "5466",
+      "purchaseCost": 1036,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2024-03-11T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138208,
+      "serialNumber": "AB5554",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 25.7,
+      "dot": "3674",
+      "purchaseCost": 993,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2021-06-18T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138209,
+      "serialNumber": "AB4519",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 48.4,
+      "dot": "4690",
+      "purchaseCost": 1124,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2023-11-29T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138210,
+      "serialNumber": "AB1514",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 90.3,
+      "dot": "9370",
+      "purchaseCost": 852,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2023-01-22T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138211,
+      "serialNumber": "AB5677",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 54.2,
+      "dot": "1389",
+      "purchaseCost": 947,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2022-09-09T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138212,
+      "serialNumber": "AB6732",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 51.1,
+      "dot": "2382",
+      "purchaseCost": 1199,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2021-09-11T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138213,
+      "serialNumber": "AB3083",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 48.9,
+      "dot": "2289",
+      "purchaseCost": 878,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2019-10-17T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138214,
+      "serialNumber": "AB1863",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 37.7,
+      "dot": "7561",
+      "purchaseCost": 1071,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2020-12-15T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138215,
+      "serialNumber": "AB8275",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 215,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 45.0,
+      "dot": "8000",
+      "purchaseCost": 1037,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2019-01-05T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138216,
+      "serialNumber": "AB2124",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 38.7,
+      "dot": "4586",
+      "purchaseCost": 1137,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2019-09-03T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138217,
+      "serialNumber": "AB8734",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 78.3,
+      "dot": "2841",
+      "purchaseCost": 1059,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2021-08-01T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138218,
+      "serialNumber": "AB9901",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 45.9,
+      "dot": "9670",
+      "purchaseCost": 1182,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2020-06-02T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138219,
+      "serialNumber": "AB5384",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 215,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 20.5,
+      "dot": "1376",
+      "purchaseCost": 981,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2023-07-19T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138220,
+      "serialNumber": "AB1212",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 9.5,
+      "dot": "4895",
+      "purchaseCost": 888,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2023-05-08T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138221,
+      "serialNumber": "AB1646",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 47.8,
+      "dot": "5854",
+      "purchaseCost": 855,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2023-06-07T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138222,
+      "serialNumber": "AB9607",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 101.7,
+      "dot": "2999",
+      "purchaseCost": 1128,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2023-01-17T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138223,
+      "serialNumber": "AB9321",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 47.8,
+      "dot": "5594",
+      "purchaseCost": 969,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2023-08-11T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138224,
+      "serialNumber": "AB1044",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 78.2,
+      "dot": "4277",
+      "purchaseCost": 1109,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2020-03-13T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138225,
+      "serialNumber": "AB5594",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 76.9,
+      "dot": "1044",
+      "purchaseCost": 857,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2020-02-18T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138226,
+      "serialNumber": "AB7011",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 30.1,
+      "dot": "5823",
+      "purchaseCost": 1151,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2019-10-31T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138227,
+      "serialNumber": "AB3443",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 69.1,
+      "dot": "5888",
+      "purchaseCost": 881,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2021-09-12T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138228,
+      "serialNumber": "AB4249",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 215,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 63.5,
+      "dot": "6931",
+      "purchaseCost": 1197,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2020-10-05T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138229,
+      "serialNumber": "AB2450",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 7.2,
+      "dot": "9506",
+      "purchaseCost": 816,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2021-07-18T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138230,
+      "serialNumber": "AB9239",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 52.3,
+      "dot": "8106",
+      "purchaseCost": 815,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2021-03-05T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138231,
+      "serialNumber": "AB7861",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 67.9,
+      "dot": "7897",
+      "purchaseCost": 980,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2021-07-30T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138232,
+      "serialNumber": "AB7338",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 68.0,
+      "dot": "1799",
+      "purchaseCost": 1106,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2019-05-05T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138233,
+      "serialNumber": "AB1673",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 23.4,
+      "dot": "2378",
+      "purchaseCost": 1169,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2021-04-08T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138234,
+      "serialNumber": "AB1966",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 95.6,
+      "dot": "2634",
+      "purchaseCost": 885,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2022-11-09T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138235,
+      "serialNumber": "AB9519",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 54.6,
+      "dot": "3732",
+      "purchaseCost": 891,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2023-04-06T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138236,
+      "serialNumber": "AB4170",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 20.3,
+      "dot": "9561",
+      "purchaseCost": 1143,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2022-08-27T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138237,
+      "serialNumber": "AB3377",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 1.6,
+      "dot": "8097",
+      "purchaseCost": 932,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2022-12-08T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138238,
+      "serialNumber": "AB9922",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 2.5,
+      "dot": "1383",
+      "purchaseCost": 1048,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2019-11-21T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138239,
+      "serialNumber": "AB4495",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 32.1,
+      "dot": "6163",
+      "purchaseCost": 1086,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2020-11-30T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138240,
+      "serialNumber": "AB5631",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 92.9,
+      "dot": "8901",
+      "purchaseCost": 1117,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2019-11-08T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138241,
+      "serialNumber": "AB2864",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 43.8,
+      "dot": "8391",
+      "purchaseCost": 1197,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2023-07-27T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138242,
+      "serialNumber": "AB3711",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 83.1,
+      "dot": "2799",
+      "purchaseCost": 928,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2024-05-25T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138243,
+      "serialNumber": "AB9770",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 29.8,
+      "dot": "8105",
+      "purchaseCost": 932,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2020-03-12T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138244,
+      "serialNumber": "AB6440",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 62.4,
+      "dot": "8201",
+      "purchaseCost": 1185,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2020-10-04T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138245,
+      "serialNumber": "AB3357",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 90.9,
+      "dot": "4332",
+      "purchaseCost": 990,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2023-09-06T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138246,
+      "serialNumber": "AB8789",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 41.8,
+      "dot": "7224",
+      "purchaseCost": 970,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2020-01-06T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138247,
+      "serialNumber": "AB2753",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 71.5,
+      "dot": "1222",
+      "purchaseCost": 1135,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2021-12-22T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138248,
+      "serialNumber": "AB5554",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 46.7,
+      "dot": "8350",
+      "purchaseCost": 1112,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2022-08-08T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138249,
+      "serialNumber": "AB6173",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 50.4,
+      "dot": "2509",
+      "purchaseCost": 900,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2022-03-23T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138250,
+      "serialNumber": "AB4161",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 55.2,
+      "dot": "9326",
+      "purchaseCost": 1180,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2023-08-20T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138251,
+      "serialNumber": "AB8710",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 34.3,
+      "dot": "6908",
+      "purchaseCost": 860,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2020-09-08T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138252,
+      "serialNumber": "AB3607",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 40.5,
+      "dot": "2783",
+      "purchaseCost": 1025,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2020-10-07T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138253,
+      "serialNumber": "AB9111",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 66.2,
+      "dot": "7434",
+      "purchaseCost": 936,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2023-06-27T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138254,
+      "serialNumber": "AB2275",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 94.3,
+      "dot": "2835",
+      "purchaseCost": 1108,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2023-06-12T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138255,
+      "serialNumber": "AB7063",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 85.3,
+      "dot": "7434",
+      "purchaseCost": 1016,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2023-06-28T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138256,
+      "serialNumber": "AB2430",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 48.1,
+      "dot": "4483",
+      "purchaseCost": 1137,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2024-03-10T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138257,
+      "serialNumber": "AB3871",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 14.9,
+      "dot": "2210",
+      "purchaseCost": 940,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2022-02-17T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138258,
+      "serialNumber": "AB9163",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 33.3,
+      "dot": "6824",
+      "purchaseCost": 869,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2021-02-01T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138259,
+      "serialNumber": "AB8714",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 27.7,
+      "dot": "9205",
+      "purchaseCost": 1067,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2022-03-18T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138260,
+      "serialNumber": "AB4299",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 91.2,
+      "dot": "8968",
+      "purchaseCost": 1121,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2022-01-19T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138261,
+      "serialNumber": "AB3481",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 10.2,
+      "dot": "8386",
+      "purchaseCost": 896,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2022-02-04T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138262,
+      "serialNumber": "AB1241",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 31.8,
+      "dot": "8014",
+      "purchaseCost": 810,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2023-07-19T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138263,
+      "serialNumber": "AB4150",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 93.7,
+      "dot": "5867",
+      "purchaseCost": 1109,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2023-06-10T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138264,
+      "serialNumber": "AB3124",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 56.9,
+      "dot": "6409",
+      "purchaseCost": 981,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2022-12-19T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138265,
+      "serialNumber": "AB9877",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 59.4,
+      "dot": "1799",
+      "purchaseCost": 1033,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2019-06-04T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138266,
+      "serialNumber": "AB7916",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 63.3,
+      "dot": "5819",
+      "purchaseCost": 1008,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2023-08-04T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138267,
+      "serialNumber": "AB4066",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 90.2,
+      "dot": "8006",
+      "purchaseCost": 1160,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2021-12-07T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138268,
+      "serialNumber": "AB4724",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 87.2,
+      "dot": "3584",
+      "purchaseCost": 895,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2023-07-01T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138269,
+      "serialNumber": "AB3269",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 19.0,
+      "dot": "2665",
+      "purchaseCost": 1037,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2022-10-04T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138270,
+      "serialNumber": "AB5838",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 45.0,
+      "dot": "3446",
+      "purchaseCost": 1185,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2023-03-31T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138271,
+      "serialNumber": "AB1437",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 66.7,
+      "dot": "6842",
+      "purchaseCost": 937,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2023-06-12T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138272,
+      "serialNumber": "AB4106",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 95.7,
+      "dot": "3020",
+      "purchaseCost": 834,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2022-02-02T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138273,
+      "serialNumber": "AB7476",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 103.9,
+      "dot": "8229",
+      "purchaseCost": 1018,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2022-05-02T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138274,
+      "serialNumber": "AB9243",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 61.9,
+      "dot": "7362",
+      "purchaseCost": 922,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2023-08-22T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138275,
+      "serialNumber": "AB4100",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 73.4,
+      "dot": "8123",
+      "purchaseCost": 870,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2023-05-15T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138276,
+      "serialNumber": "AB4791",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 88.7,
+      "dot": "8732",
+      "purchaseCost": 1056,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2021-01-23T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138277,
+      "serialNumber": "AB8311",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 71.5,
+      "dot": "6785",
+      "purchaseCost": 839,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2023-09-04T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138278,
+      "serialNumber": "AB7562",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 108.3,
+      "dot": "2066",
+      "purchaseCost": 1004,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2021-04-15T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138279,
+      "serialNumber": "AB5291",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 14.1,
+      "dot": "1979",
+      "purchaseCost": 985,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2021-05-09T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138280,
+      "serialNumber": "AB6732",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 69.4,
+      "dot": "9277",
+      "purchaseCost": 902,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2020-07-01T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138281,
+      "serialNumber": "AB4403",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 83.9,
+      "dot": "2415",
+      "purchaseCost": 811,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2023-11-05T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138282,
+      "serialNumber": "AB8952",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 10.7,
+      "dot": "7695",
+      "purchaseCost": 1051,
+      "newTire": false,
+      "status": "STOCK",
+      "createdAt": "2022-08-04T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138283,
+      "serialNumber": "AB8223",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 109.0,
+      "dot": "1319",
+      "purchaseCost": 1080,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2023-01-08T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138284,
+      "serialNumber": "AB8403",
+      "additionalId": "",
+      "companyGroupId": 15,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 2,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 72.2,
+      "dot": "7557",
+      "purchaseCost": 1091,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2022-10-17T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138285,
+      "serialNumber": "AB7497",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 215,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 95.8,
+      "dot": "7299",
+      "purchaseCost": 987,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2020-11-07T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138286,
+      "serialNumber": "AB4527",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 71.2,
+      "dot": "5693",
+      "purchaseCost": 807,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2022-05-30T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138287,
+      "serialNumber": "AB2670",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 3,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 98.7,
+      "dot": "2669",
+      "purchaseCost": 931,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2020-04-18T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138288,
+      "serialNumber": "AB1865",
+      "additionalId": "",
+      "companyGroupId": 17,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 4.7,
+      "dot": "5697",
+      "purchaseCost": 863,
+      "newTire": true,
+      "status": "IN_USE",
+      "createdAt": "2024-03-08T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138289,
+      "serialNumber": "AB3458",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 216,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 34.7,
+      "dot": "1781",
+      "purchaseCost": 904,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2023-11-11T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138290,
+      "serialNumber": "AB7917",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Rodap\u00e9",
+      "branchOfficeId": 215,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 2,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 25.5,
+      "dot": "6777",
+      "purchaseCost": 1101,
+      "newTire": true,
+      "status": "DISPOSAL",
+      "createdAt": "2023-03-16T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138291,
+      "serialNumber": "AB3008",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 216,
+      "branchOfficeName": "S\u00e3o Paulo",
+      "currentLifeCycle": 1,
+      "timesRetreaded": 0,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 71.5,
+      "dot": "7839",
+      "purchaseCost": 836,
+      "newTire": false,
+      "status": "DISPOSAL",
+      "createdAt": "2022-12-23T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138292,
+      "serialNumber": "AB6918",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "Empurrada",
+      "branchOfficeId": 217,
+      "branchOfficeName": "Curitiba",
+      "currentLifeCycle": 4,
+      "timesRetreaded": 3,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 109.4,
+      "dot": "6207",
+      "purchaseCost": 1076,
+      "newTire": true,
+      "status": "STOCK",
+      "createdAt": "2019-02-14T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    },
+    {
+      "id": 138293,
+      "serialNumber": "AB9120",
+      "additionalId": "",
+      "companyGroupId": 16,
+      "companyGroupName": "TreadMax",
+      "branchOfficeId": 215,
+      "branchOfficeName": "Recife",
+      "currentLifeCycle": 0,
+      "timesRetreaded": 1,
+      "maxRetreadsExpected": 3,
+      "maxLifeCycles": 4,
+      "recommendedPressure": 100.0,
+      "currentPressure": 44.6,
+      "dot": "1749",
+      "purchaseCost": 1110,
+      "newTire": false,
+      "status": "IN_USE",
+      "createdAt": "2021-02-11T00:00:00Z",
+      "tireSize": {
+        "id": 179,
+        "height": 80.0,
+        "width": 275.0,
+        "rim": 22.0
+      },
+      "make": {
+        "id": 1251,
+        "name": "Armorsteelsd"
+      },
+      "model": {
+        "id": 261597,
+        "name": "testes",
+        "groovesQuantity": 3,
+        "treadDepth": 111.0
+      },
+      "disposal": {
+        "disposalReasonId": 82,
+        "disposalReasonDescription": "Corte lateral",
+        "disposalImagesUrl": [
+          "/imagen/fake.jpg"
+        ]
+      },
+      "registrationImages": []
+    }
+  ]
+}

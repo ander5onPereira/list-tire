@@ -1,6 +1,6 @@
-import type { dataTableColumnType } from '@components/dataTable/context/types';
+import type { dataTableColumnTypeV1 } from '@components/dataTableV1/context/types';
 
-export const columns: Array<dataTableColumnType> = [
+export const columns: Array<dataTableColumnTypeV1> = [
   {
     uniqueId: 'id',
     key: 'id',

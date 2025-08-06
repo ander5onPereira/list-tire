@@ -51,6 +51,10 @@ Aplicação foi desenvolvida como teste prático para o cargo de Desenvolvedor F
 - Inicie o projeto em modo desenvolvedor com `npm run dev`
 - Acesse a aplicação em `http://localhost:5173` porta default do ViteJS
 
+🚧 - Projeto sofreu algumas alterações para uso da FAKE API 
+   -> Adicional
+    - Rode `npm run server` para iniciar o servidor fake da API
+
 ## 📋 Como rodar os testes
 
 - Execute o comando `npm run test`
@@ -78,6 +82,7 @@ Aplicação foi desenvolvida como teste prático para o cargo de Desenvolvedor F
 - `tsconfig.node.json` -> Arquivo de configuração do TypeScript
 - `vite.config.ts` -> Arquivo de configuração do ViteJS
 - `vitest.config.ts` -> Arquivo de configuração do VitestJS
+- `db.json` -> Facker de dados para o projeto
 
 ## 🔧 Descição do projeto
 
@@ -88,6 +93,8 @@ Aplicação foi desenvolvida como teste prático para o cargo de Desenvolvedor F
 - Vitest: O esse foi uma escolha inicialmente que me touse duvida, mas pesquisando mais a funda essa ferramenta pude comprovar uma escolha acertiva, começando com a facilidade de integração, com poucos passoas a configuração está realizada, seu gerenciamento inteligente ao executar os testes, proximidade com o Jest, maior velocidade, e integração completa com o ViteJs e React, tambem dando suporte a TypeScrip.
 
 - Axios: O axios foi escolhido por se tratar de uma biblioteca de integração com a API, ele traz varias funcionalidades que contribuem para uma aplicação tratamento de erros, configuração de cabeçalho, tratamento de erros e muito mais, com isso o axios traz facilidade ao desenvolvimento, como se tratava de uma aplicação com apenas 2 rotas de Api mesmo o fetch já atenderia a aplicação, tem que realizar algumas operações mais manuais, mas o axios da maior robustes a aplicação.
+
+🚧 - A alteração para uso da Fake api levou a contrução de um novo componente tabela para realizar o filtro e paginação diretamente no front end.
 
 ## Documentação componente
 
@@ -147,9 +154,10 @@ Aplicação foi desenvolvida como teste prático para o cargo de Desenvolvedor F
   > exemplo chamada: `toastSuccess('Sucesso')`
 
   ### Hooks
-    - useTire:
-      Props:
-        - **tire**: Objeto - resoltado da busca pelo tireId
-        - **isLoading**: boolean - Indica se a busca pelo tireId está em andamento
-        - **currentId**: number|null - Id do tire atual
-        - **handleCurrentDetail**: Função que será chamada ao clicar em uma linha da tabela atualiza `currentId`
+
+  - useTire:
+    Props:
+      - **tire**: Objeto - resoltado da busca pelo tireId
+      - **isLoading**: boolean - Indica se a busca pelo tireId está em andamento
+      - **currentId**: number|null - Id do tire atual
+      - **handleCurrentDetail**: Função que será chamada ao clicar em uma linha da tabela atualiza `currentId`
