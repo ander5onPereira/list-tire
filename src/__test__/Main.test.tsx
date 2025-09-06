@@ -2,11 +2,11 @@ import { waitFor } from '@testing-library/react';
 import { beforeAll, describe, expect, it, vi } from 'vitest';
 
 vi.mock('../App', () => ({
-  default: () => <div>Mock App</div>,
+  default: () => <>Mock App</>,
 }));
 
 vi.mock('react-toastify', () => ({
-  ToastContainer: () => <div>Mock Toast</div>,
+  ToastContainer: () => <>Mock Toast</>,
 }));
 
 describe('main.tsx', () => {
